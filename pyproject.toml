@@ -1,0 +1,10 @@
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "bmi_calculator"
+version = "0.1.0"
+description = "A simple BMI calculator written in Python"
+authors = [{"Fateme Hossaini"}]
+requires-python = ">=3.8"
